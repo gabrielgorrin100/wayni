@@ -1,0 +1,12 @@
+{
+    "name": "wayni",
+    "version": "1.0.0",
+    "description": "Automatización de pruebas con Cypress",
+    "main": "index.js",
+    "scripts": {
+        "test": "cypress open"
+    },
+    "dependencies": {
+        "cypress": "^14.5.4"
+    }
+}
