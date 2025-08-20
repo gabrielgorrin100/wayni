@@ -4,7 +4,10 @@
     "description": "Automatización de pruebas con Cypress",
     "main": "index.js",
     "scripts": {
-        "test": "cypress open"
+        "test": "cypress open",
+        "gestion:run": "cypress run --browser chrome --headed --spec cypress/e2e/autoGestion.cy.js",
+        "prestamos:run": "cypress run --browser chrome --headed --spec cypress/e2e/prestamos.cy.js"
+
     },
     "dependencies": {
         "cypress": "^14.5.4"

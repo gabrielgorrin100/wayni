@@ -1,0 +1,37 @@
+{
+    "home": {
+        "pedi_tu_prestamo": "Pedí tu préstamo  de  hasta $1.450.000",
+        "pedi_tu_prestamo_soy_cliente": "Pedí tu préstamo de hasta",
+        "en_linea": "$1.450.000En línea, en el día.",
+        "titulo_formulario": "Completá el formulario para saber cuánto podemos prestarte:",
+        "tus_datos_se_guardan": "Tu datos se guardan de forma segura",
+        "escribi_tu_numero_dato": "Escribí tu número con el código de área sin 0 y sin 15",
+        "banco_info": "Seleccioná en qué banco tenés cuenta. Allí depositaremos tu préstamo.",
+        "termino_condiciones": "He leído y acepto los términos y condiciones ",
+        "como_te_llamas": "¿Cómo te llamás?",
+        "inicio_secion": "Iniciá sesión y solicitá tu préstamo",
+        "datos_telefono": "Incluye el código de área de tu ciudad, sin el 0 y sin el 15."
+    },
+    "alert": {
+        "lo_sentimos": "Lo sentimos, pero no tenemos una oferta disponible para tu perfil.",
+        "a_que_se_debe": "¿A qué se debe ésto?",
+        "en_waynimovil": "En Waynimóvil tomamos en cuenta el historial de pago de nuestros usuarios.",
+        "desafortunadamente": "Desafortunadamente nuestra experiencia anterior no nos permite otorgarte un préstamo en este momento. Te proponemos volver a intentarlo en un tiempo.",
+        "no_encontro_cliente": "No pudo encontrarse el usuario."
+    },
+    "homeMovil": {
+        "tenemos_un_prestamo": "Tenemos un préstamo para vos",
+        "ingresa_billetera": "¡Ingresá a tu billetera!",
+        "pedilo": "Pedilo 100% online, sin moverte de tu casa.",
+        "te_lo_acreditamos": "Te lo acreditamos directamente en tu cuenta en el día.",
+        "conoce_requisitos": "Conocé los requisitos"
+    },
+    "home_auto_gestion": {
+        "ingresa_dni": "Ingresá tu DNI y consultá el estado de tu préstamo",
+        "vas_a_poder": "Vas a poder revisar los detalles de tu préstamo, pagar cuotas e iniciar reclamos.",
+        "queres_pedir": "¿Querés pedir un préstamo?",
+        "sabias_que": "SABÍAS QUE...",
+        "mas_te_conocemos": "Más te conocemos, más podemos prestarte. Por eso es importante que ¡Mantengas tus cuotas al día!",
+        "fail_dni": "Por favor, verifica ser una persona"
+    }
+}
